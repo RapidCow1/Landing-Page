@@ -60,6 +60,26 @@ body {
 .sec-2 {
     display: flex;
     flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-container {
+    display: flex;
+    gap: 30px;
+}
+
+.info {
+    max-width: 120px;
+    text-align: center;
+}
+
+.imgbox {
+    width: 120px;
+    height: 120px;
+    border-style: solid;
+    border-radius: 10px;
 }
 
 .sec-3 {
