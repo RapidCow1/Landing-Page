@@ -29,7 +29,7 @@ body {
 
 .content {
     color: white;
-    width: 350px;
+    width: 380px;
 }
 
 .title {
@@ -43,6 +43,20 @@ body {
 
 .placeholder {
     background-color: #E5E7EB;
+    width: 450px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button1,
+.button2 {
+    color: white;
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding:4px 20px;
+    margin-top: 5px;
 }
 
 .logo {
