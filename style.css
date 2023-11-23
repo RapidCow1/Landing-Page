@@ -1,7 +1,9 @@
 body {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     margin: 0;
+    height: 100vh;
 }
 
 .header {
@@ -11,6 +13,11 @@ body {
     background-color: #1F2937;
     color: white;
     height: 30px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: larger;
 }
 
 ul {
