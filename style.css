@@ -32,6 +32,15 @@ body {
     width: 350px;
 }
 
+.title {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.subtext {
+    font-size: 18px;
+}
+
 .placeholder {
     background-color: #E5E7EB;
 }
