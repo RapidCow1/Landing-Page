@@ -109,7 +109,15 @@ body {
     align-items: center;
 }
 
-
+.subcontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 0 95px;
+    width: 600px;
+    height: 100px;
+}
 
 .logo {
     font-weight: bold;
