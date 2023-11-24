@@ -90,7 +90,16 @@ body {
 
 .sec-3 {
     display: flex;
+    flex-direction: column;
     flex: 1;
+    background-color: #E5E7EB;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote {
+    width: 700px;
+    font-size: 36px;
 }
 
 .sec-4 {
