@@ -79,13 +79,13 @@ body {
 }
 
 .info {
-    max-width: 120px;
+    max-width: 150px;
     text-align: center;
 }
 
 .imgbox {
-    width: 120px;
-    height: 120px;
+    width: 150px;
+    height: 150px;
     border-style: solid;
     border-radius: 10px;
     border-color: #3882F6;
