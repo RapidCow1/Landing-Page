@@ -118,6 +118,7 @@ body {
     width: 600px;
     height: 100px;
     color: white;
+    border-radius: 5px;
 }
 
 .sec4-subtitle {
