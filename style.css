@@ -4,6 +4,7 @@ body {
     justify-content: space-between;
     margin: 0;
     height: 100vh;
+    font-family: sans-serif;
 }
 
 .header,
@@ -67,7 +68,7 @@ body {
 
 .img-container {
     display: flex;
-    gap: 30px;
+    gap: 40px;
 }
 
 .info {
@@ -104,9 +105,9 @@ body {
 
 .sec-4 {
     display: flex;
-    flex: 1;
     justify-content: center;
     align-items: center;
+    flex: 0.7;
 }
 
 .subcontainer {
