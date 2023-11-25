@@ -96,7 +96,7 @@ body {
 .sec-3 {
     display: flex;
     flex-direction: column;
-    flex: 1;
+    flex: 0.8;
     background-color: #E5E7EB;
     align-items: center;
     justify-content: center;
